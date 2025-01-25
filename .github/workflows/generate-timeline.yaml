@@ -16,9 +16,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Generate Timeline.md
+      - name: Generate Timeline.MD
         run: |
-          git log --name-status --pretty=format:"### %h - %ad: %s%nAuthor: %an%n" --date=short > TIMELINE.md
+          git log --name-status --pretty=format:"### %h - %ad: %s%nAuthor: %an%n" --date=short > TIMELINE.MD
 
       - name: Commit and push the timeline
         run: |
