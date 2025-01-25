@@ -1,0 +1,26 @@
+name: Generate Timeline
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  generate-timeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate Timeline.md
+        run: |
+          git log --name-status --pretty=format:"### %h - %ad: %s%nAuthor: %an%n" --date=short > TIMELINE.md
+
+      - name: Commit and push the timeline
+        run: |
+          git config --global user.email "shaivilisthebest@gmail.com"
+          git config --global user.name "Shaivil"
+          git add TIMELINE.md
+          git commit -m "chore: Update TIMELINE.md"
+          git push
