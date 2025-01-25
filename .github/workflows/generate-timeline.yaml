@@ -24,6 +24,6 @@ jobs:
         run: |
           git config --global user.email "shaivilisthebest@gmail.com"
           git config --global user.name "Shaivil"
-          git add TIMELINE.md
+          git add TIMELINE.MD
           git commit -m "chore: Update TIMELINE.md"
           git push
