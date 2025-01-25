@@ -3,7 +3,7 @@ name: Generate Timeline
 on:
   push:
     branches:
-      - main 
+      - master 
 
 jobs:
   generate-timeline:
