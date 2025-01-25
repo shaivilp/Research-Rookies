@@ -1,4 +1,4 @@
-### 863b150 - 2025-01-25: fix: Defined explicit permissions and added GITHUB_TOKEN to repo
+### 521c931 - 2025-01-25: Merge branch 'master' of https://github.com/shaivilp/Research-Rookies
 Author: Shaivil
 
 A	.gitattributes
@@ -6,6 +6,7 @@ A	.github/workflows/generate-timeline.yaml
 A	.gitignore
 A	README.MD
 A	TIMELINE.MD
+A	TIMELINE.md
 A	data_visualization/basic_graph_stuff/data_vis.ipynb
 A	data_visualization/data/2024-09-01-entries.xlsx
 A	data_visualization/data/2024-09-entries-start.parquet
