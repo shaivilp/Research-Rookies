@@ -1,11 +1,11 @@
-### 8851027 - 2025-01-25: chore: Fixed Issue with timeline not being added to git commit
+### f0d209f - 2025-01-25: Merge branch 'master' of https://github.com/shaivilp/Research-Rookies
 Author: Shaivil
 
 A	.gitattributes
 A	.github/workflows/generate-timeline.yaml
 A	.gitignore
 A	README.MD
-A	TIMELINE.md
+A	TIMELINE.MD
 A	data_visualization/basic_graph_stuff/data_vis.ipynb
 A	data_visualization/data/2024-09-01-entries.xlsx
 A	data_visualization/data/2024-09-entries-start.parquet
