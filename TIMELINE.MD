@@ -1,4 +1,4 @@
-### f0d209f - 2025-01-25: Merge branch 'master' of https://github.com/shaivilp/Research-Rookies
+### bde9868 - 2025-01-25: Merge branch 'master' of https://github.com/shaivilp/Research-Rookies
 Author: Shaivil
 
 A	.gitattributes
