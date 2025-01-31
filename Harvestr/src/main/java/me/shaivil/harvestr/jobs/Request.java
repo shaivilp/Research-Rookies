@@ -11,7 +11,7 @@ import java.io.IOException;
 public class Request extends Thread{
     @Override
     public void run() {
-        while(true){
+        while (true){
             try {
                 String response = APIUtil.fetchData();
                 Logger.log(LogType.INFO, response);
