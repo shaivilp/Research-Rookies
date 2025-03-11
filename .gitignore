@@ -1,4 +1,6 @@
 *.exe
 *.env
 .idea
-/DivyBikes/*.zip
+/DivyBikes/*.zip*.csv
+__pycache__/
+.ipynb_checkpoints/
