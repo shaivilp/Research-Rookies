@@ -1,0 +1,2898 @@
+[
+  {
+    "routeID": "19",
+    "stops": [
+      {
+        "stopIDs": 819,
+        "stopName": "DuSable Turnaround - Rt 18 / Rt 19"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 709,
+        "stopName": "Annie Glidden Rd. & Loren Dr. (East Side)"
+      },
+      {
+        "stopIDs": 616,
+        "stopName": "Annie Glidden Rd. at Varsity Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 824,
+        "stopName": "Normal Rd at NIU School of Nursing - SB Stop #656"
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 652,
+        "stopName": "Kimberly - Normal"
+      },
+      {
+        "stopIDs": 652,
+        "stopName": "Kimberly - Normal"
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 813,
+        "stopName": "Normal Rd at Islamic Center of DeKalb - SB"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 807,
+        "stopName": "College Ave at Castle Dr Stop # 452"
+      },
+      {
+        "stopIDs": 807,
+        "stopName": "College Ave at Castle Dr Stop # 452"
+      },
+      {
+        "stopIDs": 576,
+        "stopName": "Castle Dr at Montgomery"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 815,
+        "stopName": "N 1st St at E Locust St"
+      },
+      {
+        "stopIDs": 814,
+        "stopName": "N 1st St at Sycamore Rd (Rt 23) (Clinton MS)  - NB"
+      },
+      {
+        "stopIDs": 686,
+        "stopName": "Hillcrest Dr at KinderCare (North Side)"
+      },
+      {
+        "stopIDs": 686,
+        "stopName": "Hillcrest Dr at KinderCare (North Side)"
+      },
+      {
+        "stopIDs": 825,
+        "stopName": "North 7th St at Sycamore Rd (Rt 23) - SB Stop #535"
+      },
+      {
+        "stopIDs": 569,
+        "stopName": "7th St at Lewis St (Inbound)"
+      },
+      {
+        "stopIDs": 569,
+        "stopName": "7th St at Lewis St (Inbound)"
+      },
+      {
+        "stopIDs": 570,
+        "stopName": "7th St at Pleasant St - SB"
+      },
+      {
+        "stopIDs": 570,
+        "stopName": "7th St at Pleasant St - SB"
+      },
+      {
+        "stopIDs": 705,
+        "stopName": "Pleasant St. at 10th St. (South Side)"
+      },
+      {
+        "stopIDs": 705,
+        "stopName": "Pleasant St. at 10th St. (South Side)"
+      },
+      {
+        "stopIDs": 715,
+        "stopName": "10th St. & Market St."
+      },
+      {
+        "stopIDs": 716,
+        "stopName": "10th St. & E. Locust St."
+      },
+      {
+        "stopIDs": 717,
+        "stopName": "10th St. & Franklin St."
+      },
+      {
+        "stopIDs": 718,
+        "stopName": "10th St. & E. Garden St."
+      },
+      {
+        "stopIDs": 720,
+        "stopName": "S 7th St. at Founders Elementary"
+      },
+      {
+        "stopIDs": 721,
+        "stopName": "S. 7th St. & Tyler St."
+      },
+      {
+        "stopIDs": 722,
+        "stopName": "S. 7th St. & Best Ave."
+      },
+      {
+        "stopIDs": 723,
+        "stopName": "Fairview Dr. at Nestle Entrance (Turn Lane)"
+      },
+      {
+        "stopIDs": 724,
+        "stopName": "Fairview Dr. at Panduit Entrance (Turn Lane)"
+      },
+      {
+        "stopIDs": 725,
+        "stopName": "Macom Dr. at 3M Stop 1"
+      },
+      {
+        "stopIDs": 726,
+        "stopName": "Macom Dr. at 3M Stop 2"
+      },
+      {
+        "stopIDs": 727,
+        "stopName": "Macom Dr. at Target Distribution Center"
+      },
+      {
+        "stopIDs": 730,
+        "stopName": "Harvestore Dr. at Superior Diesel"
+      },
+      {
+        "stopIDs": 729,
+        "stopName": "Harvestore Dr. & Wagner Ct."
+      },
+      {
+        "stopIDs": 804,
+        "stopName": "Gurler Rd at Crego Rd (META/Facebook) - EB"
+      },
+      {
+        "stopIDs": 817,
+        "stopName": "Gurler Rd at Peace Rd (META/Facebook) - WB"
+      },
+      {
+        "stopIDs": 795,
+        "stopName": "1001 E Gurler Rd (Ferrara Candy) - WB"
+      },
+      {
+        "stopIDs": 818,
+        "stopName": "801 E Gurler Rd (Ferrara Candy) - WB"
+      },
+      {
+        "stopIDs": 816,
+        "stopName": "S 4th St at Manning Dr - NB"
+      },
+      {
+        "stopIDs": 741,
+        "stopName": "South 4th St. at Huntley Middle School"
+      },
+      {
+        "stopIDs": 740,
+        "stopName": "South 4th St. at Dollar General"
+      },
+      {
+        "stopIDs": 760,
+        "stopName": "South 4th St. at Fas Mart - NB"
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 544,
+        "stopName": "Annie Glidden Rd. at Graham Hall"
+      },
+      {
+        "stopIDs": 544,
+        "stopName": "Annie Glidden Rd. at Graham Hall"
+      },
+      {
+        "stopIDs": 819,
+        "stopName": "DuSable Turnaround - Rt 18 / Rt 19"
+      }
+    ]
+  },
+  {
+    "routeID": "16",
+    "stops": [
+      {
+        "stopIDs": 809,
+        "stopName": "Normal Rd at W Locust St Stop #645"
+      },
+      {
+        "stopIDs": 809,
+        "stopName": "Normal Rd at W Locust St Stop #645"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 623,
+        "stopName": "Locust St. at 2nd St."
+      },
+      {
+        "stopIDs": 623,
+        "stopName": "Locust St. at 2nd St."
+      },
+      {
+        "stopIDs": 624,
+        "stopName": "Locust St. at 6th St."
+      },
+      {
+        "stopIDs": 624,
+        "stopName": "Locust St. at 6th St."
+      },
+      {
+        "stopIDs": 625,
+        "stopName": "7th St. at Grove St."
+      },
+      {
+        "stopIDs": 625,
+        "stopName": "7th St. at Grove St."
+      },
+      {
+        "stopIDs": 626,
+        "stopName": "7th St. at E. Garden St."
+      },
+      {
+        "stopIDs": 626,
+        "stopName": "7th St. at E. Garden St."
+      },
+      {
+        "stopIDs": 627,
+        "stopName": "Taylor St. Plaza"
+      },
+      {
+        "stopIDs": 627,
+        "stopName": "Taylor St. Plaza"
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 810,
+        "stopName": "West Lincoln Hwy at Annie Glidden (CVS) Stop #442"
+      },
+      {
+        "stopIDs": 811,
+        "stopName": "West Lincoln Hwy at Junction Plaza Stop #443"
+      }
+    ]
+  },
+  {
+    "routeID": "2R",
+    "stops": [
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 451,
+        "stopName": "Health Services at Lucinda Ave."
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 449,
+        "stopName": "Anderson Hall"
+      },
+      {
+        "stopIDs": 449,
+        "stopName": "Anderson Hall"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 452,
+        "stopName": "College Ave. at Castle Dr."
+      },
+      {
+        "stopIDs": 452,
+        "stopName": "College Ave. at Castle Dr."
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 454,
+        "stopName": "Lincoln Hwy. at Burger King"
+      },
+      {
+        "stopIDs": 454,
+        "stopName": "Lincoln Hwy. at Burger King"
+      },
+      {
+        "stopIDs": 455,
+        "stopName": "Lincoln Hwy. at Annie Glidden"
+      },
+      {
+        "stopIDs": 455,
+        "stopName": "Lincoln Hwy. at Annie Glidden"
+      },
+      {
+        "stopIDs": 615,
+        "stopName": "Lincoln Hwy. at Popeye''s"
+      },
+      {
+        "stopIDs": 457,
+        "stopName": "Lincoln Hwy. at Stadium View"
+      },
+      {
+        "stopIDs": 457,
+        "stopName": "Lincoln Hwy. at Stadium View"
+      },
+      {
+        "stopIDs": 458,
+        "stopName": "Lincoln Hwy. at Gideon Ct."
+      },
+      {
+        "stopIDs": 458,
+        "stopName": "Lincoln Hwy. at Gideon Ct."
+      },
+      {
+        "stopIDs": 459,
+        "stopName": "Human Resources Building"
+      },
+      {
+        "stopIDs": 459,
+        "stopName": "Human Resources Building"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 460,
+        "stopName": "Lot C3 at Presidents Blvd."
+      },
+      {
+        "stopIDs": 460,
+        "stopName": "Lot C3 at Presidents Blvd."
+      },
+      {
+        "stopIDs": 461,
+        "stopName": "Convocation Center Entrance 3"
+      },
+      {
+        "stopIDs": 461,
+        "stopName": "Convocation Center Entrance 3"
+      },
+      {
+        "stopIDs": 473,
+        "stopName": "Stevenson South"
+      },
+      {
+        "stopIDs": 473,
+        "stopName": "Stevenson South"
+      },
+      {
+        "stopIDs": 474,
+        "stopName": "Stevenson North"
+      },
+      {
+        "stopIDs": 474,
+        "stopName": "Stevenson North"
+      },
+      {
+        "stopIDs": 475,
+        "stopName": "Grant North"
+      },
+      {
+        "stopIDs": 475,
+        "stopName": "Grant North"
+      },
+      {
+        "stopIDs": 476,
+        "stopName": "New Hall West"
+      },
+      {
+        "stopIDs": 476,
+        "stopName": "New Hall West"
+      },
+      {
+        "stopIDs": 464,
+        "stopName": "Rec Center"
+      },
+      {
+        "stopIDs": 464,
+        "stopName": "Rec Center"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      }
+    ]
+  },
+  {
+    "routeID": "11",
+    "stops": [
+      {
+        "stopIDs": 492,
+        "stopName": "Normal Rd. at Lucinda Ave."
+      },
+      {
+        "stopIDs": 492,
+        "stopName": "Normal Rd. at Lucinda Ave."
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 452,
+        "stopName": "College Ave. at Castle Dr."
+      },
+      {
+        "stopIDs": 452,
+        "stopName": "College Ave. at Castle Dr."
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 623,
+        "stopName": "Locust St. at 2nd St."
+      },
+      {
+        "stopIDs": 623,
+        "stopName": "Locust St. at 2nd St."
+      },
+      {
+        "stopIDs": 624,
+        "stopName": "Locust St. at 6th St."
+      },
+      {
+        "stopIDs": 624,
+        "stopName": "Locust St. at 6th St."
+      },
+      {
+        "stopIDs": 625,
+        "stopName": "7th St. at Grove St."
+      },
+      {
+        "stopIDs": 625,
+        "stopName": "7th St. at Grove St."
+      },
+      {
+        "stopIDs": 626,
+        "stopName": "7th St. at E. Garden St."
+      },
+      {
+        "stopIDs": 626,
+        "stopName": "7th St. at E. Garden St."
+      },
+      {
+        "stopIDs": 627,
+        "stopName": "Taylor St. Plaza"
+      },
+      {
+        "stopIDs": 627,
+        "stopName": "Taylor St. Plaza"
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 628,
+        "stopName": "Taylor St. at 2nd St."
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 539,
+        "stopName": "Taylor St at 1st St"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 540,
+        "stopName": "Taylor St at Glidden Ave"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 541,
+        "stopName": "Taylor St at Ashbury Ct APT"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 542,
+        "stopName": "Schnuck's Shopping Center"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 731,
+        "stopName": "Annie Glidden Rd. at Hampton Inn - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 732,
+        "stopName": "Annie Glidden Rd at Elk's Lodge - NB"
+      },
+      {
+        "stopIDs": 543,
+        "stopName": "Annie Glidden Rd. at CVS"
+      },
+      {
+        "stopIDs": 456,
+        "stopName": "Lincoln Hwy. at Dunkin Donuts"
+      },
+      {
+        "stopIDs": 457,
+        "stopName": "Lincoln Hwy. at Stadium View"
+      },
+      {
+        "stopIDs": 457,
+        "stopName": "Lincoln Hwy. at Stadium View"
+      },
+      {
+        "stopIDs": 458,
+        "stopName": "Lincoln Hwy. at Gideon Ct."
+      },
+      {
+        "stopIDs": 458,
+        "stopName": "Lincoln Hwy. at Gideon Ct."
+      },
+      {
+        "stopIDs": 459,
+        "stopName": "Human Resources Building"
+      },
+      {
+        "stopIDs": 459,
+        "stopName": "Human Resources Building"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 460,
+        "stopName": "Lot C3 at Presidents Blvd."
+      },
+      {
+        "stopIDs": 460,
+        "stopName": "Lot C3 at Presidents Blvd."
+      },
+      {
+        "stopIDs": 461,
+        "stopName": "Convocation Center Entrance 3"
+      },
+      {
+        "stopIDs": 461,
+        "stopName": "Convocation Center Entrance 3"
+      },
+      {
+        "stopIDs": 473,
+        "stopName": "Stevenson South"
+      },
+      {
+        "stopIDs": 473,
+        "stopName": "Stevenson South"
+      },
+      {
+        "stopIDs": 474,
+        "stopName": "Stevenson North"
+      },
+      {
+        "stopIDs": 474,
+        "stopName": "Stevenson North"
+      },
+      {
+        "stopIDs": 475,
+        "stopName": "Grant North"
+      },
+      {
+        "stopIDs": 475,
+        "stopName": "Grant North"
+      },
+      {
+        "stopIDs": 476,
+        "stopName": "New Hall West"
+      },
+      {
+        "stopIDs": 476,
+        "stopName": "New Hall West"
+      },
+      {
+        "stopIDs": 464,
+        "stopName": "Rec Center"
+      },
+      {
+        "stopIDs": 464,
+        "stopName": "Rec Center"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 529,
+        "stopName": "Varsity Blvd. at Pappas"
+      },
+      {
+        "stopIDs": 529,
+        "stopName": "Varsity Blvd. at Pappas"
+      },
+      {
+        "stopIDs": 530,
+        "stopName": "Varsity Blvd at Varsity Square"
+      },
+      {
+        "stopIDs": 530,
+        "stopName": "Varsity Blvd at Varsity Square"
+      },
+      {
+        "stopIDs": 531,
+        "stopName": "Varsity Blvd at Regent Dr"
+      },
+      {
+        "stopIDs": 531,
+        "stopName": "Varsity Blvd at Regent Dr"
+      },
+      {
+        "stopIDs": 522,
+        "stopName": "Regent Dr. at Eco Park Dr."
+      },
+      {
+        "stopIDs": 522,
+        "stopName": "Regent Dr. at Eco Park Dr."
+      },
+      {
+        "stopIDs": 523,
+        "stopName": "Eco Park Building #780"
+      },
+      {
+        "stopIDs": 523,
+        "stopName": "Eco Park Building #780"
+      },
+      {
+        "stopIDs": 524,
+        "stopName": "Regent Dr. at Varsity Blvd."
+      },
+      {
+        "stopIDs": 524,
+        "stopName": "Regent Dr. at Varsity Blvd."
+      },
+      {
+        "stopIDs": 532,
+        "stopName": "Regent Dr at Hillcrest Dr"
+      },
+      {
+        "stopIDs": 532,
+        "stopName": "Regent Dr at Hillcrest Dr"
+      },
+      {
+        "stopIDs": 533,
+        "stopName": "Hillcrest Dr at Spiros Ct"
+      },
+      {
+        "stopIDs": 533,
+        "stopName": "Hillcrest Dr at Spiros Ct"
+      },
+      {
+        "stopIDs": 534,
+        "stopName": "Hillcrest Dr at Pappas Dr"
+      },
+      {
+        "stopIDs": 534,
+        "stopName": "Hillcrest Dr at Pappas Dr"
+      },
+      {
+        "stopIDs": 510,
+        "stopName": "Annie Glidden Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 510,
+        "stopName": "Annie Glidden Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 511,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments So."
+      },
+      {
+        "stopIDs": 511,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments So."
+      },
+      {
+        "stopIDs": 512,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments No."
+      },
+      {
+        "stopIDs": 512,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments No."
+      },
+      {
+        "stopIDs": 513,
+        "stopName": "Twombly Rd. at Eden's Garden"
+      },
+      {
+        "stopIDs": 513,
+        "stopName": "Twombly Rd. at Eden's Garden"
+      },
+      {
+        "stopIDs": 514,
+        "stopName": "Twombly Rd. at Suburban Estates 1st"
+      },
+      {
+        "stopIDs": 514,
+        "stopName": "Twombly Rd. at Suburban Estates 1st"
+      },
+      {
+        "stopIDs": 515,
+        "stopName": "Twombly Rd. at Suburban Estates 2nd"
+      },
+      {
+        "stopIDs": 515,
+        "stopName": "Twombly Rd. at Suburban Estates 2nd"
+      },
+      {
+        "stopIDs": 516,
+        "stopName": "Twombly Rd. at Suburban Estates 3rd"
+      },
+      {
+        "stopIDs": 516,
+        "stopName": "Twombly Rd. at Suburban Estates 3rd"
+      },
+      {
+        "stopIDs": 517,
+        "stopName": "Twombly Rd. at Annie Glidden Rd."
+      },
+      {
+        "stopIDs": 517,
+        "stopName": "Twombly Rd. at Annie Glidden Rd."
+      },
+      {
+        "stopIDs": 518,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments"
+      },
+      {
+        "stopIDs": 518,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments"
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 652,
+        "stopName": "Kimberly - Normal"
+      },
+      {
+        "stopIDs": 652,
+        "stopName": "Kimberly - Normal"
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 490,
+        "stopName": "721 Normal Rd."
+      },
+      {
+        "stopIDs": 490,
+        "stopName": "721 Normal Rd."
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      }
+    ]
+  },
+  {
+    "routeID": "3",
+    "stops": [
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 493,
+        "stopName": "Normal Rd. at Newman Center"
+      },
+      {
+        "stopIDs": 494,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 495,
+        "stopName": "Across from 721 Normal Rd."
+      },
+      {
+        "stopIDs": 496,
+        "stopName": "Normal Rd at Greenbrier Rd. (3R)"
+      },
+      {
+        "stopIDs": 497,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 498,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 499,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 500,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 501,
+        "stopName": "Blackhawk Rd. at Ridge Dr."
+      },
+      {
+        "stopIDs": 502,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 503,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 504,
+        "stopName": "Blackhawk Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 505,
+        "stopName": "Greenbrier Rd. at Hillcrest Dr.(3R)"
+      },
+      {
+        "stopIDs": 506,
+        "stopName": "Greenbrier Rd. at Bus Shelter"
+      },
+      {
+        "stopIDs": 507,
+        "stopName": "Russell Rd. at Hillel Jewish Center (3R)"
+      },
+      {
+        "stopIDs": 508,
+        "stopName": "Russell Rd. at Crane Dr. (3R)"
+      },
+      {
+        "stopIDs": 509,
+        "stopName": "Russell Rd. at Lucinda Ave."
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      }
+    ]
+  },
+  {
+    "routeID": "18",
+    "stops": [
+      {
+        "stopIDs": 676,
+        "stopName": "Wal-Mart (Front) (Layover)"
+      },
+      {
+        "stopIDs": 676,
+        "stopName": "Wal-Mart (Front) (Layover)"
+      },
+      {
+        "stopIDs": 835,
+        "stopName": null
+      },
+      {
+        "stopIDs": 679,
+        "stopName": "Kishwaukee Hospital at North Bus Shelter"
+      },
+      {
+        "stopIDs": 567,
+        "stopName": "Hopkins Park Pedestrian Overpass"
+      },
+      {
+        "stopIDs": 567,
+        "stopName": "Hopkins Park Pedestrian Overpass"
+      },
+      {
+        "stopIDs": 686,
+        "stopName": "Hillcrest Dr at KinderCare (North Side)"
+      },
+      {
+        "stopIDs": 686,
+        "stopName": "Hillcrest Dr at KinderCare (North Side)"
+      },
+      {
+        "stopIDs": 687,
+        "stopName": "1st St & Laurel Ln (East Side)"
+      },
+      {
+        "stopIDs": 688,
+        "stopName": "Dresser Rd at Bike Path"
+      },
+      {
+        "stopIDs": 689,
+        "stopName": "DeKalb High School (NW Side of Wildflower)"
+      },
+      {
+        "stopIDs": 690,
+        "stopName": "Amber Manor (Normal Rd Bus Shelter)"
+      },
+      {
+        "stopIDs": 691,
+        "stopName": "Normal & Hillcrest"
+      },
+      {
+        "stopIDs": 692,
+        "stopName": "University Village at Russell Rd"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 693,
+        "stopName": "University Village at Crane Dr"
+      },
+      {
+        "stopIDs": 694,
+        "stopName": "University Village at Loren Dr"
+      },
+      {
+        "stopIDs": 695,
+        "stopName": "Annie Glidden Rd & Varsity Blvd (SE Corner)"
+      },
+      {
+        "stopIDs": 696,
+        "stopName": "Blackhawk Rd & Edgebrook Dr"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 697,
+        "stopName": "DeKalb County Health Department"
+      },
+      {
+        "stopIDs": 698,
+        "stopName": "Dresser Court Apts"
+      },
+      {
+        "stopIDs": 699,
+        "stopName": "DeKalb High School (SE Side of Wildflower)"
+      },
+      {
+        "stopIDs": 700,
+        "stopName": "1st St at SW Corner of Dresser Rd"
+      },
+      {
+        "stopIDs": 701,
+        "stopName": "1st St at Hillcrest Covenant Church Driveway"
+      },
+      {
+        "stopIDs": 702,
+        "stopName": "KinderCare (South Side)"
+      },
+      {
+        "stopIDs": 703,
+        "stopName": "Jewel at Bus Shelter"
+      },
+      {
+        "stopIDs": 704,
+        "stopName": "Rt 23 at Fast Mart Gas Station"
+      },
+      {
+        "stopIDs": 836,
+        "stopName": null
+      },
+      {
+        "stopIDs": 676,
+        "stopName": "Wal-Mart (Front) (Layover)"
+      },
+      {
+        "stopIDs": 676,
+        "stopName": "Wal-Mart (Front) (Layover)"
+      },
+      {
+        "stopIDs": 677,
+        "stopName": "Rt 23 at Panera Bread"
+      },
+      {
+        "stopIDs": 678,
+        "stopName": "Rt 23 at Hy-Vee"
+      },
+      {
+        "stopIDs": 680,
+        "stopName": "YMCA"
+      },
+      {
+        "stopIDs": 681,
+        "stopName": "Ben Gordon Center"
+      },
+      {
+        "stopIDs": 799,
+        "stopName": "Bethany Rd. at Dekalb Ave"
+      },
+      {
+        "stopIDs": 682,
+        "stopName": "Rt 23 at Target (Walkway)"
+      },
+      {
+        "stopIDs": 683,
+        "stopName": "Rt 23 at Verizon"
+      },
+      {
+        "stopIDs": 684,
+        "stopName": "Jewel at SW Corner of Rt 23 & Hollister"
+      },
+      {
+        "stopIDs": 685,
+        "stopName": "Rt 23 at Pad Between Woodlawn & Lawnwood"
+      }
+    ]
+  },
+  {
+    "routeID": "12",
+    "stops": [
+      {
+        "stopIDs": 809,
+        "stopName": "Normal Rd at W Locust St Stop #645"
+      },
+      {
+        "stopIDs": 809,
+        "stopName": "Normal Rd at W Locust St Stop #645"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 809,
+        "stopName": "Normal Rd at W Locust St Stop #645"
+      },
+      {
+        "stopIDs": 809,
+        "stopName": "Normal Rd at W Locust St Stop #645"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 545,
+        "stopName": "Locust and 2nd St"
+      },
+      {
+        "stopIDs": 545,
+        "stopName": "Locust and 2nd St"
+      },
+      {
+        "stopIDs": 546,
+        "stopName": "Locust and 6th St"
+      },
+      {
+        "stopIDs": 546,
+        "stopName": "Locust and 6th St"
+      },
+      {
+        "stopIDs": 705,
+        "stopName": "Pleasant St. at 10th St. (South Side)"
+      },
+      {
+        "stopIDs": 705,
+        "stopName": "Pleasant St. at 10th St. (South Side)"
+      },
+      {
+        "stopIDs": 707,
+        "stopName": "Elburn Train Station"
+      },
+      {
+        "stopIDs": 707,
+        "stopName": "Elburn Train Station"
+      },
+      {
+        "stopIDs": 708,
+        "stopName": "Pleasant St. at 10th St. (North Side)"
+      },
+      {
+        "stopIDs": 571,
+        "stopName": "7th St at Pine St (Inbound)"
+      },
+      {
+        "stopIDs": 571,
+        "stopName": "7th St at Pine St (Inbound)"
+      },
+      {
+        "stopIDs": 572,
+        "stopName": "Locust St at 6th St (Inbound)"
+      },
+      {
+        "stopIDs": 572,
+        "stopName": "Locust St at 6th St (Inbound)"
+      },
+      {
+        "stopIDs": 573,
+        "stopName": "Locust St and 2nd St"
+      },
+      {
+        "stopIDs": 573,
+        "stopName": "Locust St and 2nd St"
+      },
+      {
+        "stopIDs": 574,
+        "stopName": "Lincoln Hwy at Castle Bank"
+      },
+      {
+        "stopIDs": 574,
+        "stopName": "Lincoln Hwy at Castle Bank"
+      },
+      {
+        "stopIDs": 575,
+        "stopName": "Lincoln Hwy at Pearl St (Inbound)"
+      },
+      {
+        "stopIDs": 575,
+        "stopName": "Lincoln Hwy at Pearl St (Inbound)"
+      }
+    ]
+  },
+  {
+    "routeID": "21",
+    "stops": [
+      {
+        "stopIDs": 761,
+        "stopName": "Grant St. at Civic Apartments"
+      },
+      {
+        "stopIDs": 762,
+        "stopName": "California St. at Carls Fargo"
+      },
+      {
+        "stopIDs": 762,
+        "stopName": "California St. at Carls Fargo"
+      },
+      {
+        "stopIDs": 763,
+        "stopName": "Maple St. at Opportunity House Residence"
+      },
+      {
+        "stopIDs": 764,
+        "stopName": "Lucas St. at Opportunity House"
+      },
+      {
+        "stopIDs": 765,
+        "stopName": "State St. at Sycamore Post Office"
+      },
+      {
+        "stopIDs": 766,
+        "stopName": "State St. at Family Dollar"
+      },
+      {
+        "stopIDs": 767,
+        "stopName": "State St. at Sycamore Public Library"
+      },
+      {
+        "stopIDs": 768,
+        "stopName": "Maple St. at DeKalb County Courthouse"
+      },
+      {
+        "stopIDs": 768,
+        "stopName": "Maple St. at DeKalb County Courthouse"
+      },
+      {
+        "stopIDs": 769,
+        "stopName": "Exchange St. & Sacramento St. (NW Side)"
+      },
+      {
+        "stopIDs": 770,
+        "stopName": "Exchange St. & Cross St."
+      },
+      {
+        "stopIDs": 771,
+        "stopName": "Rt. 23 at Sycamore High School"
+      },
+      {
+        "stopIDs": 772,
+        "stopName": "Rt. 23 & Plaza Dr. (NW Side)"
+      },
+      {
+        "stopIDs": 773,
+        "stopName": "Rt. 23 & Electric Park Dr. (West Side)"
+      },
+      {
+        "stopIDs": 774,
+        "stopName": "Rt. 23 at Four Seasons Sports (West Side)"
+      },
+      {
+        "stopIDs": 775,
+        "stopName": "Rt. 23 & Bethany Rd. (Heartland Bank)"
+      },
+      {
+        "stopIDs": 775,
+        "stopName": "Rt. 23 & Bethany Rd. (Heartland Bank)"
+      },
+      {
+        "stopIDs": 776,
+        "stopName": "Ben Gordon Center (West Side)"
+      },
+      {
+        "stopIDs": 777,
+        "stopName": "YMCA (North Side)"
+      },
+      {
+        "stopIDs": 778,
+        "stopName": "Kishwaukee Hospital (Pavilion)"
+      },
+      {
+        "stopIDs": 779,
+        "stopName": "Rt. 23 & Oakland Dr."
+      },
+      {
+        "stopIDs": 780,
+        "stopName": "Rt. 23 at Target"
+      },
+      {
+        "stopIDs": 781,
+        "stopName": "Wal-Mart"
+      },
+      {
+        "stopIDs": 783,
+        "stopName": "Oakland Dr. at Ollie's Frozen Custard"
+      },
+      {
+        "stopIDs": 784,
+        "stopName": "Kishwaukee Health Physician Group"
+      },
+      {
+        "stopIDs": 784,
+        "stopName": "Kishwaukee Health Physician Group"
+      },
+      {
+        "stopIDs": 785,
+        "stopName": "Gateway Dr. at Davita Dialysis"
+      },
+      {
+        "stopIDs": 558,
+        "stopName": "Speech-Language-Hearing Clinic South"
+      },
+      {
+        "stopIDs": 558,
+        "stopName": "Speech-Language-Hearing Clinic South"
+      },
+      {
+        "stopIDs": 786,
+        "stopName": "Rt. 23 & Mercantile Dr."
+      },
+      {
+        "stopIDs": 787,
+        "stopName": "Rt. 23 at McDonald's"
+      },
+      {
+        "stopIDs": 794,
+        "stopName": "Walgreen's"
+      },
+      {
+        "stopIDs": 794,
+        "stopName": "Walgreen's"
+      },
+      {
+        "stopIDs": 790,
+        "stopName": "Farm & Fleet"
+      },
+      {
+        "stopIDs": 790,
+        "stopName": "Farm & Fleet"
+      }
+    ]
+  },
+  {
+    "routeID": "2L",
+    "stops": [
+      {
+        "stopIDs": 433,
+        "stopName": "Lincoln Hall"
+      },
+      {
+        "stopIDs": 465,
+        "stopName": "Stadium Dr. at New Hall"
+      },
+      {
+        "stopIDs": 466,
+        "stopName": "Grant North"
+      },
+      {
+        "stopIDs": 467,
+        "stopName": "Stevenson North"
+      },
+      {
+        "stopIDs": 468,
+        "stopName": "Stevenson South"
+      },
+      {
+        "stopIDs": 436,
+        "stopName": "Convocation Center Entrance 3"
+      },
+      {
+        "stopIDs": 437,
+        "stopName": "Lot C3 at Presidents Blvd"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 438,
+        "stopName": "Norther View Circle"
+      },
+      {
+        "stopIDs": 439,
+        "stopName": "Lincoln Hwy. at High Meadows"
+      },
+      {
+        "stopIDs": 440,
+        "stopName": "Lincoln Hwy. at Culvers"
+      },
+      {
+        "stopIDs": 441,
+        "stopName": "Lincoln Hwy. at Precision Auto Wash"
+      },
+      {
+        "stopIDs": 442,
+        "stopName": "Lincoln Hwy. at CVS Pharmacy"
+      },
+      {
+        "stopIDs": 443,
+        "stopName": "Lincoln Hwy. at Pizza Villa"
+      },
+      {
+        "stopIDs": 444,
+        "stopName": "Lincoln Hwy. at Psychology Building"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 445,
+        "stopName": "Castle Dr. at Montgomery"
+      },
+      {
+        "stopIDs": 446,
+        "stopName": "Castle Dr. at College Ave."
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 447,
+        "stopName": "Gilbert Way at Art Building"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 448,
+        "stopName": "Barsema Hall"
+      },
+      {
+        "stopIDs": 449,
+        "stopName": "Anderson Hall"
+      },
+      {
+        "stopIDs": 449,
+        "stopName": "Anderson Hall"
+      },
+      {
+        "stopIDs": 450,
+        "stopName": "Health Services on Lucinda Ave."
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 820,
+        "stopName": "DuSable Turnaround Rt 2L / 2R"
+      }
+    ]
+  },
+  {
+    "routeID": "21 Tripper",
+    "stops": [
+      {
+        "stopIDs": 784,
+        "stopName": "Kishwaukee Health Physician Group"
+      },
+      {
+        "stopIDs": 784,
+        "stopName": "Kishwaukee Health Physician Group"
+      },
+      {
+        "stopIDs": 789,
+        "stopName": "Thornwood Dr. & Prairie Rd."
+      },
+      {
+        "stopIDs": 788,
+        "stopName": "Afton Rd. at Department of Human Services"
+      },
+      {
+        "stopIDs": 794,
+        "stopName": "Walgreen's"
+      },
+      {
+        "stopIDs": 794,
+        "stopName": "Walgreen's"
+      },
+      {
+        "stopIDs": 790,
+        "stopName": "Farm & Fleet"
+      },
+      {
+        "stopIDs": 790,
+        "stopName": "Farm & Fleet"
+      },
+      {
+        "stopIDs": 791,
+        "stopName": "Meijer Grocery Store (On Demand)"
+      },
+      {
+        "stopIDs": 792,
+        "stopName": "W. Peace Rd. at Jewel (On Demand)"
+      },
+      {
+        "stopIDs": 793,
+        "stopName": "Center for Family Health (On Demand)"
+      },
+      {
+        "stopIDs": 768,
+        "stopName": "Maple St. at DeKalb County Courthouse"
+      },
+      {
+        "stopIDs": 768,
+        "stopName": "Maple St. at DeKalb County Courthouse"
+      },
+      {
+        "stopIDs": 762,
+        "stopName": "California St. at Carls Fargo"
+      },
+      {
+        "stopIDs": 762,
+        "stopName": "California St. at Carls Fargo"
+      }
+    ]
+  },
+  {
+    "routeID": "17",
+    "stops": [
+      {
+        "stopIDs": 805,
+        "stopName": "Holmes Student Center Stop #739"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 806,
+        "stopName": "Lucinda Ave at Wirtz Dr Stop #451"
+      },
+      {
+        "stopIDs": 807,
+        "stopName": "College Ave at Castle Dr Stop # 452"
+      },
+      {
+        "stopIDs": 807,
+        "stopName": "College Ave at Castle Dr Stop # 452"
+      },
+      {
+        "stopIDs": 808,
+        "stopName": "Castle Dr at Lincoln Ter stop #576"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 536,
+        "stopName": "Lincoln Hwy at Pearl St"
+      },
+      {
+        "stopIDs": 545,
+        "stopName": "Locust and 2nd St"
+      },
+      {
+        "stopIDs": 545,
+        "stopName": "Locust and 2nd St"
+      },
+      {
+        "stopIDs": 546,
+        "stopName": "Locust and 6th St"
+      },
+      {
+        "stopIDs": 546,
+        "stopName": "Locust and 6th St"
+      },
+      {
+        "stopIDs": 547,
+        "stopName": "7th St at Pine St"
+      },
+      {
+        "stopIDs": 548,
+        "stopName": "7th St at Pleasant St"
+      },
+      {
+        "stopIDs": 549,
+        "stopName": "7th St at Lewis St"
+      },
+      {
+        "stopIDs": 550,
+        "stopName": "7th St at Sycamore Rd"
+      },
+      {
+        "stopIDs": 551,
+        "stopName": "Sycamore Rd at Jewel"
+      },
+      {
+        "stopIDs": 552,
+        "stopName": "Sycamore Rd at White Castle"
+      },
+      {
+        "stopIDs": 553,
+        "stopName": "Brian Bemis Toyota"
+      },
+      {
+        "stopIDs": 554,
+        "stopName": "Wal-Mart (Grocery Entrance)"
+      },
+      {
+        "stopIDs": 676,
+        "stopName": "Wal-Mart (Front) (Layover)"
+      },
+      {
+        "stopIDs": 676,
+        "stopName": "Wal-Mart (Front) (Layover)"
+      },
+      {
+        "stopIDs": 555,
+        "stopName": "Sycamore Rd at Northland Plaza"
+      },
+      {
+        "stopIDs": 632,
+        "stopName": "Hy-Vee"
+      },
+      {
+        "stopIDs": 557,
+        "stopName": "Sycamore Rd at Gateway Dr"
+      },
+      {
+        "stopIDs": 558,
+        "stopName": "Speech-Language-Hearing Clinic South"
+      },
+      {
+        "stopIDs": 558,
+        "stopName": "Speech-Language-Hearing Clinic South"
+      },
+      {
+        "stopIDs": 775,
+        "stopName": "Rt. 23 & Bethany Rd. (Heartland Bank)"
+      },
+      {
+        "stopIDs": 775,
+        "stopName": "Rt. 23 & Bethany Rd. (Heartland Bank)"
+      },
+      {
+        "stopIDs": 560,
+        "stopName": "Health Services Dr at Ben Gordon Ctr"
+      },
+      {
+        "stopIDs": 561,
+        "stopName": "Health Services Dr at YMCA"
+      },
+      {
+        "stopIDs": 562,
+        "stopName": "Kish Hospital Bus Shelter - North Side"
+      },
+      {
+        "stopIDs": 563,
+        "stopName": "Sycamore Rd at Oakland Dr"
+      },
+      {
+        "stopIDs": 633,
+        "stopName": "Target Shopping Center"
+      },
+      {
+        "stopIDs": 565,
+        "stopName": "Sycamore Rd at Wal-Mart"
+      },
+      {
+        "stopIDs": 566,
+        "stopName": "Sycamore Rd at E Dresser"
+      },
+      {
+        "stopIDs": 567,
+        "stopName": "Hopkins Park Pedestrian Overpass"
+      },
+      {
+        "stopIDs": 567,
+        "stopName": "Hopkins Park Pedestrian Overpass"
+      },
+      {
+        "stopIDs": 568,
+        "stopName": "7th at Sycamore Rd (Inbound)"
+      },
+      {
+        "stopIDs": 569,
+        "stopName": "7th St at Lewis St (Inbound)"
+      },
+      {
+        "stopIDs": 569,
+        "stopName": "7th St at Lewis St (Inbound)"
+      },
+      {
+        "stopIDs": 570,
+        "stopName": "7th St at Pleasant St - SB"
+      },
+      {
+        "stopIDs": 570,
+        "stopName": "7th St at Pleasant St - SB"
+      },
+      {
+        "stopIDs": 571,
+        "stopName": "7th St at Pine St (Inbound)"
+      },
+      {
+        "stopIDs": 571,
+        "stopName": "7th St at Pine St (Inbound)"
+      },
+      {
+        "stopIDs": 572,
+        "stopName": "Locust St at 6th St (Inbound)"
+      },
+      {
+        "stopIDs": 572,
+        "stopName": "Locust St at 6th St (Inbound)"
+      },
+      {
+        "stopIDs": 573,
+        "stopName": "Locust St and 2nd St"
+      },
+      {
+        "stopIDs": 573,
+        "stopName": "Locust St and 2nd St"
+      },
+      {
+        "stopIDs": 574,
+        "stopName": "Lincoln Hwy at Castle Bank"
+      },
+      {
+        "stopIDs": 574,
+        "stopName": "Lincoln Hwy at Castle Bank"
+      },
+      {
+        "stopIDs": 575,
+        "stopName": "Lincoln Hwy at Pearl St (Inbound)"
+      },
+      {
+        "stopIDs": 575,
+        "stopName": "Lincoln Hwy at Pearl St (Inbound)"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 453,
+        "stopName": "Psychology Building"
+      },
+      {
+        "stopIDs": 454,
+        "stopName": "Lincoln Hwy. at Burger King"
+      },
+      {
+        "stopIDs": 454,
+        "stopName": "Lincoln Hwy. at Burger King"
+      },
+      {
+        "stopIDs": 455,
+        "stopName": "Lincoln Hwy. at Annie Glidden"
+      },
+      {
+        "stopIDs": 455,
+        "stopName": "Lincoln Hwy. at Annie Glidden"
+      },
+      {
+        "stopIDs": 544,
+        "stopName": "Annie Glidden Rd. at Graham Hall"
+      },
+      {
+        "stopIDs": 544,
+        "stopName": "Annie Glidden Rd. at Graham Hall"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 805,
+        "stopName": "Holmes Student Center Stop #739"
+      }
+    ]
+  },
+  {
+    "routeID": "10",
+    "stops": [
+      {
+        "stopIDs": 477,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 432,
+        "stopName": "DuSable Turnaround Rt 5 / Rt 10"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 528,
+        "stopName": "Annie Glidden Rd at Crane Dr"
+      },
+      {
+        "stopIDs": 529,
+        "stopName": "Varsity Blvd. at Pappas"
+      },
+      {
+        "stopIDs": 529,
+        "stopName": "Varsity Blvd. at Pappas"
+      },
+      {
+        "stopIDs": 530,
+        "stopName": "Varsity Blvd at Varsity Square"
+      },
+      {
+        "stopIDs": 530,
+        "stopName": "Varsity Blvd at Varsity Square"
+      },
+      {
+        "stopIDs": 531,
+        "stopName": "Varsity Blvd at Regent Dr"
+      },
+      {
+        "stopIDs": 531,
+        "stopName": "Varsity Blvd at Regent Dr"
+      },
+      {
+        "stopIDs": 522,
+        "stopName": "Regent Dr. at Eco Park Dr."
+      },
+      {
+        "stopIDs": 522,
+        "stopName": "Regent Dr. at Eco Park Dr."
+      },
+      {
+        "stopIDs": 523,
+        "stopName": "Eco Park Building #780"
+      },
+      {
+        "stopIDs": 523,
+        "stopName": "Eco Park Building #780"
+      },
+      {
+        "stopIDs": 524,
+        "stopName": "Regent Dr. at Varsity Blvd."
+      },
+      {
+        "stopIDs": 524,
+        "stopName": "Regent Dr. at Varsity Blvd."
+      },
+      {
+        "stopIDs": 532,
+        "stopName": "Regent Dr at Hillcrest Dr"
+      },
+      {
+        "stopIDs": 532,
+        "stopName": "Regent Dr at Hillcrest Dr"
+      },
+      {
+        "stopIDs": 533,
+        "stopName": "Hillcrest Dr at Spiros Ct"
+      },
+      {
+        "stopIDs": 533,
+        "stopName": "Hillcrest Dr at Spiros Ct"
+      },
+      {
+        "stopIDs": 534,
+        "stopName": "Hillcrest Dr at Pappas Dr"
+      },
+      {
+        "stopIDs": 534,
+        "stopName": "Hillcrest Dr at Pappas Dr"
+      },
+      {
+        "stopIDs": 510,
+        "stopName": "Annie Glidden Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 510,
+        "stopName": "Annie Glidden Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 511,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments So."
+      },
+      {
+        "stopIDs": 511,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments So."
+      },
+      {
+        "stopIDs": 512,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments No."
+      },
+      {
+        "stopIDs": 512,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments No."
+      },
+      {
+        "stopIDs": 513,
+        "stopName": "Twombly Rd. at Eden's Garden"
+      },
+      {
+        "stopIDs": 513,
+        "stopName": "Twombly Rd. at Eden's Garden"
+      },
+      {
+        "stopIDs": 514,
+        "stopName": "Twombly Rd. at Suburban Estates 1st"
+      },
+      {
+        "stopIDs": 514,
+        "stopName": "Twombly Rd. at Suburban Estates 1st"
+      },
+      {
+        "stopIDs": 515,
+        "stopName": "Twombly Rd. at Suburban Estates 2nd"
+      },
+      {
+        "stopIDs": 515,
+        "stopName": "Twombly Rd. at Suburban Estates 2nd"
+      },
+      {
+        "stopIDs": 516,
+        "stopName": "Twombly Rd. at Suburban Estates 3rd"
+      },
+      {
+        "stopIDs": 516,
+        "stopName": "Twombly Rd. at Suburban Estates 3rd"
+      },
+      {
+        "stopIDs": 517,
+        "stopName": "Twombly Rd. at Annie Glidden Rd."
+      },
+      {
+        "stopIDs": 517,
+        "stopName": "Twombly Rd. at Annie Glidden Rd."
+      },
+      {
+        "stopIDs": 518,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments"
+      },
+      {
+        "stopIDs": 518,
+        "stopName": "Annie Glidden Rd. at Suburban Apartments"
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 482,
+        "stopName": "Blackhawk Rd. at Kimberly Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 483,
+        "stopName": "Blackhawk Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 577,
+        "stopName": "Blackhawk Rd. at Ridge Dr.(10)"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 485,
+        "stopName": "Ridge Rd. at Amber Manor"
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 486,
+        "stopName": "Ridge Rd. at Normal Rd."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 487,
+        "stopName": "Normal Rd. at Edgebrook Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 488,
+        "stopName": "Normal Rd. at Hillcrest Dr."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 489,
+        "stopName": "Normal Rd. at Greenbrier Rd."
+      },
+      {
+        "stopIDs": 490,
+        "stopName": "721 Normal Rd."
+      },
+      {
+        "stopIDs": 490,
+        "stopName": "721 Normal Rd."
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 491,
+        "stopName": "Normal Rd. at Northern Lane"
+      },
+      {
+        "stopIDs": 492,
+        "stopName": "Normal Rd. at Lucinda Ave."
+      },
+      {
+        "stopIDs": 492,
+        "stopName": "Normal Rd. at Lucinda Ave."
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      },
+      {
+        "stopIDs": 431,
+        "stopName": "Student Center"
+      }
+    ]
+  }
+]
