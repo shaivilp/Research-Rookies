@@ -63,6 +63,8 @@ app.post("/predict", async (req, res) => {
 
         // Convert input into a Float32Array tensor
         const inputTensor = new ort.Tensor("float32", new Float32Array([routeID, startingStop, endingStop, day, hour, minute]), [1, 6]);
+        
+        console.log("Input Tensor:", inputTensor);
 
         // Run inference
         const output = await session.run({ input: inputTensor });
