@@ -11,14 +11,14 @@ export default function ETAPredictor() {
   const [eta, setEta] = useState(null);
 
   useEffect(() => {
-    fetch('http://localhost:3000/routes')
+    fetch('https://api.shaivilpatel.me/routes')
       .then(res => res.json())
       .then(data => setRoutes(data));
   }, []);
 
   useEffect(() => {
     if (selectedRoute) {
-      fetch(`http://localhost:3000/stops/${selectedRoute}`)
+      fetch(`https://api.shaivilpatel.me/stops/${selectedRoute}`)
         .then(res => res.json())
         .then(data => {
           const seen = new Set();
@@ -41,7 +41,7 @@ export default function ETAPredictor() {
       endingStop: endStop
     };
 
-    fetch('http://localhost:3000/predict', {
+    fetch('https://api.shaivilpatel.me/predict', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

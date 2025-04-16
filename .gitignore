@@ -4,4 +4,4 @@
 /DivyBikes/*.zip*.csv
 __pycache__/
 .ipynb_checkpoints/
-/dekalb_bus/website/backend/node_modules
+/dekalb_bus/website/frontend/dist
